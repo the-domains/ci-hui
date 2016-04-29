@@ -1,0 +1,28 @@
+name: 词汇 － Ci Hui
+favicon: null
+layout_spectrum: 0.8457729234360158
+typography_spectrum: 0.3735470606479794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.07155309990048409
+  lightness: 0.1215416775085032
+  saturation: 0.31836106977425516
+  rhythmicContrast: 0.0529678373131901
+purpose: []
